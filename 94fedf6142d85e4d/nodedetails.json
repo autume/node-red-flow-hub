@@ -1,0 +1,111 @@
+[
+  {
+    "id": "node-red/debug",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red/function",
+    "name": "function",
+    "types": [
+      "function"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red-contrib-google-cloud/google-cloud-speech-to-text",
+    "name": "google-cloud-speech-to-text",
+    "types": [
+      "google-cloud-speech-to-text"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "node-red-contrib-google-cloud",
+    "version": "0.0.26"
+  },
+  {
+    "id": "node-red/httpin",
+    "name": "httpin",
+    "types": [
+      "http in",
+      "http response"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red/inject",
+    "name": "inject",
+    "types": [
+      "inject"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red/switch",
+    "name": "switch",
+    "types": [
+      "switch"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red-dashboard/ui_group",
+    "name": "ui_group",
+    "types": [
+      "ui_group"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "node-red-dashboard",
+    "version": "3.6.5"
+  },
+  {
+    "id": "node-red-dashboard/ui_tab",
+    "name": "ui_tab",
+    "types": [
+      "ui_tab"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "node-red-dashboard",
+    "version": "3.6.5"
+  },
+  {
+    "id": "node-red-dashboard/ui_template",
+    "name": "ui_template",
+    "types": [
+      "ui_template"
+    ],
+    "enabled": true,
+    "local": true,
+    "user": false,
+    "module": "node-red-dashboard",
+    "version": "3.6.5"
+  }
+]
